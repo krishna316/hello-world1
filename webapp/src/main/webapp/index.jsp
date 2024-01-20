@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for DevOps SimpliLearn Course</h1>
-    <p>Please fill in this form to create an account.</p>
+    <h1>New user Register for DevOps SimpliLearn Course!</h1>
+    <p>Please fill in this form to create an account in SimpliLearn.</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
